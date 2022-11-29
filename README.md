@@ -1,2 +1,2 @@
-# MiraPat Jut started with Devops 
+# Mira Just started with Devops 
 She is progressing
